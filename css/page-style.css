@@ -312,9 +312,8 @@ td.comment__content p {
  list-style-type: decimal;
 }
 
-.footer__name-author {
+p.footer__name-author {
   font-weight: 500;
-  font-size: 16px;
   float: right;
   padding-right: 10px;
 }

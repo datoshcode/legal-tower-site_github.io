@@ -311,7 +311,7 @@ td.comment__content p {
  list-style-type: decimal;
 }
 
-p.copy__name-author {
+p.copy-name-author {
   font-weight: 500;
   float: right;
   padding-right: 10px;

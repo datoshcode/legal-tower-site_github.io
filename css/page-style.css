@@ -306,21 +306,19 @@ td.comment__content p {
    .list__cyrilic li:nth-child(14)::before { content: 'ї)'; }
    .list__cyrilic li:nth-child(15)::before { content: 'к)'; }
 
-
 .list__number ul,
 .list__number li {
  list-style-type: decimal;
 }
 
-p.footer__name-author {
+p.copy__name-author {
   font-weight: 500;
   float: right;
   padding-right: 10px;
 }
 
-p.copytext {
+p.attention-copy{
   font-style: italic;
-  font-size: 14px;
   font-weight: 500;
   padding-top: 70px;
 }
@@ -348,9 +346,6 @@ mark {
   text-align: center;
   font-weight: 500;
 }
-
-.footer-publication p,
-.footer-publication a {font-size: 16px;}
 
 /* Отдельные инструкции для стилей страницы "Про нас" */
 .header-about__logo {

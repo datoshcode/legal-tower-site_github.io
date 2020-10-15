@@ -319,6 +319,7 @@ td.comment__content p {
 .footer-publication__author {
   font-weight: 500;
   padding-left: 10px;
+  text-align: left;
 }
 
 .footer-publication__attention-copy {
